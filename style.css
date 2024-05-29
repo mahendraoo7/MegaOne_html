@@ -173,10 +173,7 @@ i{
     margin-right: 40px;
     border-radius: 50px;
 }
-.img:hover{
-    transform: scale(0.8);
-    transition: 2s;
-}
+
 .box{
     width: 600px;
     height: 400px;
@@ -433,10 +430,7 @@ i{
  
 }
 .box6-1:hover{
-    .b611{
-        transform: scale(1.1);
-        transition-duration: 1s;
-    }
+
     .devid{
         background-image: url("assets/asset\ 13.png");
         background-repeat: no-repeat;
@@ -451,10 +445,7 @@ i{
     text-align: center;
 }
 .box6-2:hover{
-    .b611{
-        transform: scale(1.1    );
-        transition-duration: 1s;
-    }
+
     .devid{
         background-image: url("assets/asset\ 15.png");
         background-repeat: no-repeat;
@@ -469,10 +460,7 @@ i{
     text-align: center;
 }
 .box6-3:hover{
-    .b611{
-        transform: scale(1.1);
-        transition-duration: 1s;
-    }
+
     .devid{
         background-image: url("assets/asset\ 17.png");
         background-repeat: no-repeat;
@@ -554,8 +542,8 @@ i{
     color: white;
 }
 .b71:hover{
-    background-color:rgb(218, 19, 168);
-    transition-duration: 1s;
+    /* background-color:rgb(218, 19, 168);
+    transition-duration: 1s; */
 }
 #img7b7{
     height: 100%;
